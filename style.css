@@ -1,0 +1,25 @@
+html,
+body {
+    margin: 0px;
+}
+
+html {
+    font-size: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    height: 100%;
+}
+
+body {
+    overflow: hidden;
+    height: inherit;
+}
+
+h1 {
+    font-size: 2rem;
+    letter-spacing: -1px;
+    position: absolute;
+    margin: 0px;
+    top: -0.25rem;
+    right: 5px;
+    color: transparent;
+    text-shadow: 0 0 4px white;
+}
